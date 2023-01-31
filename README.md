@@ -34,6 +34,12 @@ In this notebook, the following steps are performed :
 - build the small BERT model with the matching preprocess model
 - compare the results with the GRU model.
 
+The following links helped me to build the small BERT model :  
+https://blog.tensorflow.org/2020/12/making-bert-easier-with-preprocessing-models-from-tensorflow-hub.html  
+https://tfhub.dev/google/collections/bert/1  
+https://www.tensorflow.org/text/tutorials/classify_text_with_bert?hl=en  
+https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-2_H-128_A-2/2  
+
 
 👉 For each model that was trained, checkpoints were saved in order to be able to load the model at a given epoch. All the files can be found in the folders 'deep_learning/trainingRNN', 'deep_learning/trainingGRU', 'deep_learning/trainingLSTM', 'deep_learning/trainingTL'.  
 
