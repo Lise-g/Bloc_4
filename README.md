@@ -3,7 +3,7 @@
 
 This project aims at building a spam detector for the AT&T company, that can automatically flag spams as they come based sollely on the sms' content.  
 
-> Video link of the project : 👉  👈
+> Video link of the project : 👉 https://share.vidyard.com/watch/4gwd2x1uxZKdybAWHqCAKa? 👈
 
 Contact : Lise Gnos  
 email : lise.gnos@gmail.com  
