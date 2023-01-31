@@ -1,3 +1,8 @@
+# My personal files
+*.docx
+*.odt
+deep_learning/docs_travail/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
